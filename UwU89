@@ -1,11 +1,16 @@
 {
-  "version": 2,
+  "version": 3,
   "name": "KAZE MUSIC ROSTER",
   "categories": [
     "Phonk",
     "Español"
   ],
   "songs": [
+    {
+      "name": "Gamina Kris r Speed up",
+      "id": 104242464450684,
+      "category": "Español"
+    },
     {
       "name": "Barbas Omar Camacho)",
       "id": 78494196510036,
