@@ -1,11 +1,16 @@
 {
-  "version": 3,
+  "version": 4,
   "name": "KAZE MUSIC ROSTER",
   "categories": [
     "Phonk",
     "Español"
   ],
   "songs": [
+    {
+      "name": "Solo mintió (Gracias afbdeqxvmkss)",
+      "id": 74181901266359,
+      "category": "Español"
+    },
     {
       "name": "Gamina Kris r Speed up",
       "id": 104242464450684,
