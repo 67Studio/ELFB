@@ -1,11 +1,16 @@
 {
-  "version": 4,
+  "version": 5,
   "name": "KAZE MUSIC ROSTER",
   "categories": [
     "Phonk",
     "Español"
   ],
   "songs": [
+    {
+      "name": "Algo de Anuel ta cool",
+      "id": 137745080093080,
+      "category": "Español"
+    },
     {
       "name": "Solo mintió (Gracias afbdeqxvmkss)",
       "id": 74181901266359,
