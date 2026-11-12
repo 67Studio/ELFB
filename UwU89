@@ -1,11 +1,16 @@
 {
-  "version": 5,
+  "version": 6,
   "name": "KAZE MUSIC ROSTER",
   "categories": [
     "Phonk",
     "Español"
   ],
   "songs": [
+    {
+      "name": "Dembow",
+      "id": 92600374555233,
+      "category": "Español"
+    },
     {
       "name": "Algo de Anuel ta cool",
       "id": 137745080093080,
