@@ -1,5 +1,5 @@
 {
-  "version": 6,
+  "version": 7,
   "name": "KAZE MUSIC ROSTER",
   "categories": [
     "Phonk",
@@ -1699,11 +1699,6 @@
     {
       "name": "FlowWare",
       "id": 70553084556448,
-      "category": "Español"
-    },
-    {
-      "name": "pase y toque",
-      "id": 106102159933794,
       "category": "Español"
     },
     {
