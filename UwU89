@@ -1,11 +1,16 @@
 {
-  "version": 7,
+  "version": 8,
   "name": "KAZE MUSIC ROSTER",
   "categories": [
     "Phonk",
     "Español"
   ],
   "songs": [
+    {
+      "name": "El R-Makabelico",
+      "id": 88818349245104,
+      "category": "Español"
+    },
     {
       "name": "Dembow",
       "id": 92600374555233,
