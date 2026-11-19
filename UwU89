@@ -1,11 +1,16 @@
 {
-  "version": 10,
+  "version": 11,
   "name": "KAZE MUSIC ROSTER",
   "categories": [
     "Phonk",
     "Español"
   ],
   "songs": [
+    {
+      "name": "Reinas yo q se",
+      "id": 99625326669788,
+      "category": "Español"
+    },
     {
       "name": "Corum",
       "id": 124248226160962,
