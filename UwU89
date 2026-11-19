@@ -1,11 +1,16 @@
 {
-  "version": 11,
+  "version": 12,
   "name": "KAZE MUSIC ROSTER",
   "categories": [
     "Phonk",
     "Español"
   ],
   "songs": [
+    {
+      "name": "ES UNA MODULA DE LA OSCURIDAD",
+      "id": 129237745591815,
+      "category": "Español"
+    },
     {
       "name": "Reinas yo q se",
       "id": 99625326669788,
